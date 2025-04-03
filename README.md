@@ -1,21 +1,38 @@
-Data Structures and Object-Oriented Programming Design
-本儲存庫包含三個以 C++ 語言實作的程式設計作業，旨在強化資料結構與物件導向程式設計的概念。​
+# Data Structures and Object-Oriented Programming Design
 
-作業列表
-程式設計作業 1
+本儲存庫包含三個以 C++ 語言實作的程式設計作業，旨在強化資料結構與物件導向程式設計的概念。
 
-描述：​此作業專注於基本資料結構的實作與應用。​
+---
 
-檔案：​位於 Program Assignment 1/ 資料夾中。​
+## 📂 作業列表
 
-程式設計作業 2
+### 🛫 Program Assignment 1 - 機場排程模擬
 
-描述：​此作業涵蓋進階資料結構與演算法的實作。​
+- **簡介**：模擬機場四條跑道的起飛與降落管理系統。
+- **內容**：
+  - 使用佇列（Queue）資料結構。
+  - 管理多個飛機的排程與狀態（如等待、起飛、降落）。
 
-檔案：​位於 Program Assignment 2/ 資料夾中。​
 
-程式設計作業 3
+---
 
-描述：​此作業著重於物件導向設計模式的應用。​
+### 🔠 Program Assignment 2 - Huffman 編碼器
 
-檔案：​位於 Program Assignment 3/ 資料夾中。
+- **簡介**：實作 Huffman 編碼進行文字壓縮與還原。
+- **內容**：
+  - 建立 Huffman Tree。
+  - 壓縮：將輸入文字轉換為 Huffman 編碼。
+  - 解壓縮：還原原始文字。
+
+
+---
+
+### 🔢 Program Assignment 3 - 合併排序分析
+
+- **簡介**：使用合併排序對隨機產生的數列進行排序。
+- **內容**：
+  - 實作 Merge Sort 演算法。
+  - 比較不同長度陣列的排序時間。
+  - 使用遞迴與分析時間複雜度。
+
+
